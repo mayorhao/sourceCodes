@@ -40,4 +40,4 @@ $.fn.ajax=function(){
 $.fn.extend=function(){
 
 }
-$.fn=$
+$.fn=F.prototype=$.init.prototype;
